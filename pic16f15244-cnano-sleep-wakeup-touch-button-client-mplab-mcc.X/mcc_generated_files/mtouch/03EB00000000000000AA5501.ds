@@ -1,0 +1,17 @@
+
+B,1,1,frame_start
+
+
+D,2,1,Reading_Button0
+D,3,1,Baseline_Button0
+-D,4,1,Deviation_Button0
+D,5,1,Scaling_Button0
+B,6,1,Threshold_Button0
+B,7,1,State_Button0
+
+
+
+
+
+
+B,1,2,frame_end

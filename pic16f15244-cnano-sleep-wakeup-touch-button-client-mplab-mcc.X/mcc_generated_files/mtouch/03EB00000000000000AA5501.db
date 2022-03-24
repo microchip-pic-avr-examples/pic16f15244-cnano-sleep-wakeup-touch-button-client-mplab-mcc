@@ -1,0 +1,156 @@
+
+
+
+{
+0,
+'m','T','o','u','c','h',' ','D', 'a', 't', 'a', ' ','V', 'i', 's', 'u', 'a', 'l', 'i', 'z', 'e', 'r','\0',
+0, 255, 255, 255,
+200, 6,
+};
+{
+0, // Dashboard ID
+0, // Element ID
+DB_TYPE_LABEL, // Element Type
+0, // Z-Index (GUI stack order)
+0, 0, // X-coordinate
+0, 0, // Y-coordinate
+22, 5, // Width
+30, 0, // Height
+16, // Font Size
+0,
+1, // Horizontal Alignment
+1, // Vertical Alignment
+255, 255, 0, 0, // Background Color
+255, 0, 0, 0, // Foreground Color
+'m', 'T', 'o', 'u', 'c', 'h', ' ', 'D', 'a', 't', 'a', ' ', 'V', 'i', 's', 'u', 'a', 'l', 'i', 'z', 'e', 'r', '\0', // Text
+};
+{
+0, // Dashboard ID
+1, // Element ID
+DB_TYPE_LABEL, // Element Type
+0, // Z-Index (GUI stack order)
+0, 0, // X-coordinate
+30, 0, // Y-coordinate
+118, 2, // Width
+30, 0, // Height
+12, // Font Size
+3,
+1, // Horizontal Alignment
+1, // Vertical Alignment
+136, 0, 255, 255, // Background Color
+255, 0, 0, 0, // Foreground Color
+'B', 'u', 't', 't', 'o', 'n', ' ', 'D', 'a', 't', 'a', '\0', // Text
+};
+
+{
+0, // Dashboard ID
+2, // Element ID
+DB_TYPE_TABLE, // Element Type
+0, // Z-Index (GUI stack order)
+0, 0, // X-coordinate
+60, 0, // Y-coordinate
+55, 2, // Width
+30, 0, // Height
+12, // Data Font Size
+12, // Label Font Size
+90,0, // Data Width
+90,0, // Label Width
+30,0, // Row Height
+1, // Number of Rows
+7, // Number of Columns
+0,
+'0', ':', '0', ':', 'N', 'a', 'm', 'e', ';', '1', ':', '0', ':', 'R', 'e', 'a', 'd', 'i', 'n', 'g', ';', '2', ':', '0', ':', 'B', 'a', 's', 'e', 'l', 'i', 'n', 'e', ';', '3', ':', '0', ':', 'D', 'e', 'v', 'i', 'a', 't', 'i', 'o', 'n', ';', '4', ':', '0', ':', 'S', 'c', 'a', 'l', 'i', 'n', 'g', ';', '5', ':', '0', ':', 'T', 'h', 'r', 'e', 's', 'h', 'o', 'l', 'd', ';', '6', ':', '0', ':', 'S', 't', 'a', 't', 'e', '\0', // Label Configuration
+4,
+0, 255, 255, 255, // Background Color
+255, 0, 0, 0, // Foreground Color
+1, // Label Horizontal Alignment
+1, // Data Horizontal Alignment
+};
+{
+0, // Dashboard ID
+3, // Element ID
+DB_TYPE_TABLE, // Element Type
+0, // Z-Index (GUI stack order)
+90, 0, // X-coordinate
+90, 0, // Y-coordinate
+230, 1, // Width
+30, 0, // Height
+12, // Data Font Size
+14, // Label Font Size
+90,0, // Data Width
+90,0, // Label Width
+30,0, // Row Height
+1, // Number of Rows
+6, // Number of Columns
+0, // AutoLabels
+'\0', // Label Configuration
+4,
+0, 255, 255, 255, // Background Color
+255, 0, 0, 0, // Foreground Color
+1, // Label Horizontal Alignment
+1, // Data Horizontal Alignment
+};
+
+{
+0, // Dashboard ID
+4, // Element ID
+DB_TYPE_TABLE, // Element Type
+0, // Z-Index (GUI stack order)
+0, 0, // X-coordinate
+90, 0, // Y-coordinate
+90, 0, // Width
+30, 0, // Height
+12, // Data Font Size
+12, // Label Font Size
+90,0, // Data Width
+90,0, // Label Width
+30,0, // Row Height
+1, // Number of Rows
+1, // Number of Columns
+0,
+'0',':','0',':', 'B',  'u',  't',  't',  'o',  'n',  '0', ';', '\0', // Label Configuration:- No line feed, '_' has to be duplicated
+4,
+0, 255, 255, 118, // Background Color
+255, 0, 0, 0, // Foreground Color
+1, // Label Horizontal Alignment
+1, // Data Horizontal Alignment
+};
+
+{
+0, // Dashboard ID
+30, // Element ID
+DB_TYPE_SIGNAL, // Element Type
+0, // Z-Index (GUI stack order)
+285, 1, // X-coordinate
+90, 0, // Y-coordinate
+90, 0, // Width
+30, 0, // Height
+110, 0, 255, 0, // Color On
+110, 255, 0, 0, // Color Off
+};
+
+
+{
+0, // Dashboard ID
+5, // Element ID
+DB_TYPE_GRAPH, // Element Type
+0, // Z-Index (GUI stack order)
+0, 0, // X-coordinate
+120, 0, // Y-coordinate
+120, 2, // Width
+250, 0, // Height
+255, 255, 255, // Title color
+0, 0, 0, // Background color
+20, 20, 20, // Graph background color
+'B','u','t','t','o','n',' ','G','r','a','p','h','\0',
+2,
+0,0,0,0, // X Minimum
+0,0,32,65, // X Maximum
+0,0,0,0, // Y Minimum
+0,0,32,65, // Y Maximum
+5,
+1,
+};
+
+
+
