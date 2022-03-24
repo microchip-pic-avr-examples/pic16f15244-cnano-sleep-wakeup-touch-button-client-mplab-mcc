@@ -21,8 +21,8 @@ This code example demonstrates usage of PIC16F15244 microcontroller as client de
 
 - [PIC16F15244 Product Page](https://www.microchip.com/wwwproducts/en/PIC16F15244 "PIC16F15244 Product Page")
 - [PIC16F15244 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples "PIC16F15244 Code Examples on GitHub")
-- [PIC16F15244 MCU Family Video](https://youtu.be/nHLv3Th-o-s "PIC16F15244 MCU Family Video")
-- [PIC16F15244 Product Family Page](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus/pic16f15244 "PIC16F15244 Product Family Page")
+- [PIC16F152xx MCU Family Video](https://youtu.be/nHLv3Th-o-s)
+- [PIC16F152xx MCU Product Family Page](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus/pic16f15244 "PIC16F15244 Product Family Page")
 
 ## Description
 
