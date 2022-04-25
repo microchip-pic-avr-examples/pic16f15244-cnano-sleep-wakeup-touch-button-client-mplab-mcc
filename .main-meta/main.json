@@ -5,9 +5,9 @@
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.pic16f15244-cnano-sleep-wakeup-touch-button-client-mplab-mcc",
         "version": "1.0.0",
-        "displayName": "Sleep Wake Up Touch Button Client Implementation using PIC16F15244 Microcontroller",
+        "displayName": "Sleep Wake Up Touch Button Implementation using PIC16F15244 Microcontroller",
         "projectName": "pic16f15244-cnano-sleep-wakeup-touch-button-client-mplab-mcc",
-        "shortDescription": "This example demonstrates a touch button implementation based host to wake up the system from sleep and communicate to host MCU over UART interface of the PIC microcontroller. Compatible PIC16F152xx family of MCUs are PIC16F15214, PIC16F15245, PIC16F15254",
+        "shortDescription": "This example demonstrates a touch button implementation to wake-up host MCU from sleep and communicate over UART interface of the PIC microcontroller. Compatible PIC16F152xx family of MCUs are: PIC16F15214, PIC16F15245/54.",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=6.0.0"
@@ -43,6 +43,7 @@
 		],
         "keywords": [
 			"mTouch",
+			"Touch",
 			"MCC Classic"
 		],
         "additionalData": {
